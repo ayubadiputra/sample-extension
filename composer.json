@@ -1,0 +1,9 @@
+{
+  "name": "ayubadiputra/sample-extension-coding-standard",
+  "description": "WPCS coding standards for the Sample Extension plugin.",
+  "license": "GPL-2.0-or-later",
+  "require": {
+    "squizlabs/php_codesniffer": "^3.0",
+    "wp-coding-standards/wpcs": "^2.3.0"
+  }
+}
