@@ -14,7 +14,7 @@ class Select extends Component {
   /**
    * Field slug.
    *
-   * @since 1.0.1
+   * @since 1.1.0
    *
    * Field `slug` is the main field identifier. We use field `slug` to define option
    * field `type` on module definition.
@@ -26,7 +26,7 @@ class Select extends Component {
   /**
    * Handle selected value change.
    *
-   * @since 1.0.1
+   * @since 1.1.0
    *
    * @param {object} event The event that triggered this action.
    */
@@ -37,7 +37,7 @@ class Select extends Component {
   /**
    * Render options on select field.
    *
-   * @since 1.0.1
+   * @since 1.1.0
    *
    * @return {object}
    */

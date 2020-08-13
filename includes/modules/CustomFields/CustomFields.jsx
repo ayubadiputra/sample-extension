@@ -9,7 +9,7 @@ class CustomFields extends Component {
   /**
    * Module slug.
    *
-   * @since 1.0.1
+   * @since 1.1.0
    *
    * @type {string}
    */

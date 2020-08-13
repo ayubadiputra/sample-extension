@@ -16,7 +16,7 @@ class SMPL_InlineEditing extends ET_Builder_Module {
 	/**
 	 * Module's slug.
 	 *
-	 * @since 1.0.2
+	 * @since 1.2.0
 	 *
 	 * @var string
 	 */
@@ -25,7 +25,7 @@ class SMPL_InlineEditing extends ET_Builder_Module {
 	/**
 	 * VB support status.
 	 *
-	 * @since 1.0.2
+	 * @since 1.2.0
 	 *
 	 * @var string
 	 */
@@ -34,7 +34,7 @@ class SMPL_InlineEditing extends ET_Builder_Module {
 	/**
 	 * Module's credit.
 	 *
-	 * @since 1.0.2
+	 * @since 1.2.0
 	 *
 	 * @var array
 	 */
@@ -47,7 +47,7 @@ class SMPL_InlineEditing extends ET_Builder_Module {
 	/**
 	 * Initiate module's definition.
 	 *
-	 * @since 1.0.2
+	 * @since 1.2.0
 	 *
 	 * @return void
 	 */
@@ -58,7 +58,7 @@ class SMPL_InlineEditing extends ET_Builder_Module {
 	/**
 	 * Define module's custom fields.
 	 *
-	 * @since 1.0.2
+	 * @since 1.2.0
 	 *
 	 * @return array Custom module's fields definition.
 	 */
@@ -91,7 +91,7 @@ class SMPL_InlineEditing extends ET_Builder_Module {
 	/**
 	 * Render module's element.
 	 *
-	 * @since 1.0.2
+	 * @since 1.2.0
 	 *
 	 * @param array  $attrs       Module's attributes.
 	 * @param string $content     Module's content.

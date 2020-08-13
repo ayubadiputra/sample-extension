@@ -9,7 +9,7 @@ class InlineEditing extends Component {
   /**
    * Module slug.
    *
-   * @since 1.0.2
+   * @since 1.2.0
    *
    * @type {string}
    */

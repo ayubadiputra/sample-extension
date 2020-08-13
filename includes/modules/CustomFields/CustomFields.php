@@ -16,7 +16,7 @@ class SMPL_CustomFields extends ET_Builder_Module {
 	/**
 	 * Module's slug.
 	 *
-	 * @since 1.0.1
+	 * @since 1.1.0
 	 *
 	 * @var string
 	 */
@@ -25,7 +25,7 @@ class SMPL_CustomFields extends ET_Builder_Module {
 	/**
 	 * VB support status.
 	 *
-	 * @since 1.0.1
+	 * @since 1.1.0
 	 *
 	 * @var string
 	 */
@@ -34,7 +34,7 @@ class SMPL_CustomFields extends ET_Builder_Module {
 	/**
 	 * Module's credit.
 	 *
-	 * @since 1.0.1
+	 * @since 1.1.0
 	 *
 	 * @var array
 	 */
@@ -47,7 +47,7 @@ class SMPL_CustomFields extends ET_Builder_Module {
 	/**
 	 * Initiate module's definition.
 	 *
-	 * @since 1.0.1
+	 * @since 1.1.0
 	 *
 	 * @return void
 	 */
@@ -58,7 +58,7 @@ class SMPL_CustomFields extends ET_Builder_Module {
 	/**
 	 * Define module's custom fields.
 	 *
-	 * @since 1.0.1
+	 * @since 1.1.0
 	 *
 	 * The code below is an example of how to use and define custom field type. As usual,
 	 * we need to define "mandatory" Divi Builder field properties such as `label`, `type`,
@@ -110,7 +110,7 @@ class SMPL_CustomFields extends ET_Builder_Module {
 	/**
 	 * Render module's element.
 	 *
-	 * @since 1.0.1
+	 * @since 1.1.0
 	 *
 	 * @param array  $attrs       Module's attributes.
 	 * @param string $content     Module's content.
