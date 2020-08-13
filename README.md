@@ -6,6 +6,7 @@ After cloning the repository, install dependencies by running `yarn install`. Th
 
 ## Features
 - Default Hello World module
+- Custom field implementation on Custom Fields module
 
 ## Contributing
-If you have feature suggestions or want to report bugs, [let me know](https://github.com/elegantthemes/create-divi-extension/issues).
+If you have feature suggestions or want to report bugs, [let me know](https://github.com/ayubadiputra/sample-extension/issues).
