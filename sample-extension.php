@@ -3,7 +3,7 @@
  * Plugin Name: Sample Extension
  * Plugin URI:  https://github.com/ayubadiputra/sample-extension
  * Description: Sample Extension is a WordPress plugin that provide some code examples how Divi Builder features can be used on 3rd party extension. It's developed for demo, testing, and learning purpose.
- * Version:     1.0.0
+ * Version:     1.0.2
  * Author:      Ayub Adiputra
  * Author URI:  https://www.ayubna.com/
  * License:     GPLv2 or later
